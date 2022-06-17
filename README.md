@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sabbisetti123(sabbbisetti sahith)
+- 👋 Hi, I’m @Sabbisetti123(sabbisetti sahith)
 - 👀 I’m interested in java full stack development
 - 🌱 I’m currently learning spring boot,react
 
